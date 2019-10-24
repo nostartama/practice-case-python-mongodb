@@ -1,5 +1,9 @@
 # practice-case-python-mongodb
 
+### [.ipynb file](https://nbviewer.jupyter.org/github/nostartama/practice-case-python-mongodb/blob/master/practice_pymongo_TioRahadityaLuthfitama.ipynb)
+
+***
+
 Python can be used in database applications. One of the most popular NoSQL database is MongoDB. 
 
 ## [Prerequisite](https://www.w3schools.com/python/python_mongodb_getstarted.asp)
